@@ -1,0 +1,6 @@
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ZenerCardGame\bin\Debug\ZenerCardGame.dll
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ZenerCardGame\bin\Debug\ZenerCardGame.pdb
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ZenerCardGame\obj\Debug\ZenerCardGame.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ZenerCardGame\obj\Debug\ZenerCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ZenerCardGame\obj\Debug\ZenerCardGame.dll
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ZenerCardGame\obj\Debug\ZenerCardGame.pdb

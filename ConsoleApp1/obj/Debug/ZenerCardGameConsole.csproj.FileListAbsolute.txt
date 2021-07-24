@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\bin\Debug\ZenerCardGame.dll
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\bin\Debug\ZenerCardGame.pdb
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\obj\Debug\ZenerCardGameConsole.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\obj\Debug\ZenerCardGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\obj\Debug\ZenerCardGameConsole.csproj.CopyComplete
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Juan\source\repos\ZenerCardGameConsole\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
